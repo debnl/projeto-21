@@ -31,3 +31,12 @@ Mas apesar da vontade de rushar vários cursos, estabeleci metas menores para es
 - 🐣 Fortalecer os conceitos de front-end utilizados para achar objetos na automação
 - 🐥 Estudar e praticar a escrita de cenários em Gherkin e criação de cenários de teste automatizados
 
+# Fevereiro 🌱
+
+O ano já começou com o pé em QA, então está na hora de partir para o estudo de front! Para esse mês, vou avançar nos cursos **Origamid** e paralelamente ao projeto do curso, começar a desenvolver o meu: Meu currículo web! Estou super ansiosa para essa parte hahahahah
+
+**Conteúdos para esse mês:**
+
+- 🥚 Definir protótipo e wireframe para projetos
+- 🐣 Começar a escrever a estrutura do site
+- 🐥 Desenvolver o CSS para que fique o mais próximo possível do protótipo
