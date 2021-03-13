@@ -41,7 +41,7 @@ O ano já começou com o pé em QA, então está na hora de partir para o estudo
 - 🐣 Começar a escrever a estrutura do site
 - 🐥 Desenvolver o CSS para que fique o mais próximo possível do protótipo
 
-# Março 🌱
+# Março 🧙🏻‍♀️
 
 Esse mês quero arriscar algo diferente: Usar um novo framework para o front-end! Vamos de vue.js?
 
