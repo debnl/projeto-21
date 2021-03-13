@@ -40,3 +40,13 @@ O ano já começou com o pé em QA, então está na hora de partir para o estudo
 - 🥚 Definir protótipo e wireframe para projetos
 - 🐣 Começar a escrever a estrutura do site
 - 🐥 Desenvolver o CSS para que fique o mais próximo possível do protótipo
+
+# Março 🌱
+
+Esse mês quero arriscar algo diferente: Usar um novo framework para o front-end! Vamos de vue.js?
+
+**Conteúdos para esse mês:**
+
+- 🥚 Estudar mais sobre sua documentação
+- 🐣 Começar a estruturação do site em containers
+- 🐥 Tentar usar o vuetify para otimizar a programação
